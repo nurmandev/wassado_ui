@@ -157,7 +157,7 @@ function App() {
         >
           <iframe
             className="absolute -z-10 md:rounded-xl w-full h-full"
-            src="https://videocdn.cdnpk.net/videos/a97eee1f-481b-49f5-a7a4-2c99980eaea2/horizontal/previews/clear/large.mp4?token=exp=1727963190~hmac=bd1f68e8cb2ffda5e172172c1362496acc0af0c6adedaff78c048680d206a96b"
+            src="https://www.youtube.com/embed/IxF55qB4CuQ?autoplay=1&controls=0&mute=1&loop=1&playlist=IxF55qB4CuQ"
             title="Example Hotel Video"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
